@@ -17,4 +17,4 @@
 #
 
 PRODUCT_MAKEFILES := \
-     $(LOCAL_DIR)/omni_xcover5.mk
+     $(LOCAL_DIR)/twrp_xcover5.mk
