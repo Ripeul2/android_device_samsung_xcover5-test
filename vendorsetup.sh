@@ -16,5 +16,5 @@
 # limitations under the License.
 #
 
-add_lunch_combo omni_xcover5-userdebug
-add_lunch_combo omni_xcover5-eng
+add_lunch_combo twrp_xcover5-userdebug
+add_lunch_combo twrp_xcover5-eng
